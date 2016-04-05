@@ -1,6 +1,0 @@
-crud\sample\app\config\WebConfig.class
-crud\sample\app\Application.class
-crud\sample\controllers\api\ICustomerController.class
-crud\sample\controllers\CustomerControllerImpl.class
-crud\sample\ui\UiController.class
-crud\sample\models\Customer.class
