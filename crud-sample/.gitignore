@@ -5,3 +5,12 @@ bower_components/
 tmp
 .DS_Store
 .idea
+
+.classpath
+.project
+target/classes/*
+target/generated-sources/*
+target/maven-archiver/*
+target/maven-status/*
+/target/
+/.settings/
